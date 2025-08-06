@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Son sohee</h1>
-<h3 align="center">능력이 있는 Back-end 개발자가 되기 위해 노력하고 있습니다</h3>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,19,14,30,19)&height=150&section=header&text=Wellcom%20My%20GitHub&fontSize=45" />
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{sohee00314}"/>
