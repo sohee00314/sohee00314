@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,19,14,30,19&height=150&section=header&text=Wellcom%20My%20GitHub&fontSize=45" />
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,19,14,30,19&height=120&section=header&text=Wellcom%20My%20GitHub&fontSize=45)
 
 <table>
   <tr>
