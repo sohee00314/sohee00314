@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Son sohee</h1>
 <h3 align="center">능력이 있는 Back-end 개발자가 되기 위해 노력하고 있습니다</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohee00314&label=Profile%20views&color=0e75b6&style=flat" alt="sohee00314" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohee00314" alt="sohee00314" /></a> </p>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{sohee00314}"/>
+</a>
 
 - 📫 How to reach me **sohee00314@gmail.com**
 
