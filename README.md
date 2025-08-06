@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,19,14,30,19&height=120&section=header&text=Wellcom%20My%20GitHub&fontSize=45)
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,19,14,30,19&height=120&section=header&text=Wellcom%20My%20GitHub&fontSize=45" width="100%" />
 
  <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{sohee00314}" align="left"/>
