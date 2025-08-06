@@ -1,17 +1,27 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,19,14,30,19)&height=150&section=header&text=Wellcom%20My%20GitHub&fontSize=45" />
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{sohee00314}"/>
-</a>
+<table>
+  <tr>
+    <td>
+    <a href="https://github.com/de  vxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/{sohee00314}"/>
+    </a>
+    </td>
+    <td valign="top">
+    <h3 align="left">Languages and Tools</h3>
+      <img src="https://img.shields.io/badge/java-ff0000?style=flat&logo=openjdk&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black"/><br>
+    </td>
+  </tr>
+<table>
 
 - 📫 How to reach me **sohee00314@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohee00314&show_icons=true&locale=en&layout=compact" alt="sohee00314" /></p>
 
