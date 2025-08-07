@@ -5,14 +5,14 @@
 </a>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohee00314&show_icons=true&locale=en&layout=compact" alt="sohee00314" width="199px"/></p>
   <div>
-      <h9>언어</h9><br>
+      <h10>언어</h10><br>
       <img src="https://img.shields.io/badge/java-ff0000?style=flat&logo=openjdk&logoColor=black"/>
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br>
-      <h9>데이터베이스</h9><br>
+      <h10>데이터베이스</h10><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>
-      <h9>주요기술</h9><br>
+      <h10>주요기술</h10><br>
       <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/><br>
-      <h9>버전관리</h9><br>
+      <h10>버전관리</h10><br>
       <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black"/>
       <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/><br>
   </div>
