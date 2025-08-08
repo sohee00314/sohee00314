@@ -3,7 +3,7 @@
  <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{sohee00314}" align="left"/>
 </a>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohee00314&show_icons=true&locale=en&layout=compact" alt="sohee00314" width="199px"/></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohee00314&theme=shadow_blue&show_icons=true&locale=en&layout=compact" alt="sohee00314" width="199px"/></p>
   <div>
       <h10>Language</h10><br>
       <img src="https://img.shields.io/badge/java-ff0000?style=flat&logo=openjdk&logoColor=black"/>
